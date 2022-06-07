@@ -1,0 +1,20 @@
+body {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.50);
+  color: black;
+}
+
+h2 {
+  background: black;
+  border-radius: 5px;
+  margin-top: -18px;
+}
+
+a {
+  text-decoration: none;
+}
